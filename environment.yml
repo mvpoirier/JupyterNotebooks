@@ -2,9 +2,9 @@ name: mvp_env
 channels:
   - defaults
 dependencies:
-  - conda
-  - python=3.8
-  - nodejs
+#  - conda
+#  - python=3.8
+#  - nodejs
   - numpy
   - matplotlib
   - ipywidgets
