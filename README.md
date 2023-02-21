@@ -1,4 +1,4 @@
-# Notebooks
+# Jupyter Notebooks
 - My collection of [Jupyter](https://jupyter.org/) interactive notebooks
 - You can run online each *notebook binder* from this repository by clicking on the icon below...
   
